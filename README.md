@@ -1,1 +1,1 @@
-# CS-300-Module-Eight
+For this course, the main issue I encountered was my confidence in my coding. C++ is the language I have the least experience with at the start of this course. Being able to take the requirements for the project and translate them to practical code was pretty difficult to begin with. As the course went on I was able to get a little more comfortable with the language. 
